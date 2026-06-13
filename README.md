@@ -4,7 +4,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=seydanursert&color=ff69b4&style=flat-square&label=profile+views)](https://github.com/seydanursert)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C85A8E?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyda-nur-sert-443571350/)
-[![Tableau](https://img.shields.io/badge/Tableau-D66BA0?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/.eyda.nur.sert/viz/Ecommerce_17786136573700/Dashboard1?publish=yes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E88AB3?style=flat-square&logo=google-chrome&logoColor=white)](https://seydanursert.github.io)
 
 </div>

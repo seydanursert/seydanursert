@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24&height=180&section=header&text=%C5%9Eeyda%20Nur%20Sert&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Explainable%20AI&descAlignY=55&descSize=16" />
@@ -157,4 +156,4 @@ Developed a web-based student attendance tracking system using real-time messagi
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24&height=100&section=footer" />
-````
+
